@@ -42,3 +42,8 @@ Run the validation checklist in [`checklists/validation.md`](../checklists/valid
 ## 6. Review handoff
 
 Use [`templates/pr-description.md`](../templates/pr-description.md).
+
+## Related
+
+- Implementation prompt: [`prompts/implement.md`](../prompts/implement.md)
+- Definition of done: [`checklists/definition-of-done.md`](../checklists/definition-of-done.md)

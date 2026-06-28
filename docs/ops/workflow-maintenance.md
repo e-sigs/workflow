@@ -11,3 +11,8 @@ Ask:
 - Which manual step should be automated?
 
 Keep workflow changes small and dated through PRs.
+
+## Related
+
+- ADR template: [`templates/adr.md`](../../templates/adr.md)
+- Create an ADR: [`scripts/new-adr.sh`](../../scripts/new-adr.sh)

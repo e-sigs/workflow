@@ -31,6 +31,10 @@ Use for delivery:
 - Run validation
 - Prepare PR handoff
 
+## Task briefing
+
+Use [`templates/agent-task.md`](../templates/agent-task.md) to scope each task before handing it to an agent.
+
 ## Orchestration rules
 
 - One task per isolated worktree when possible.

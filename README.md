@@ -36,6 +36,8 @@ docs/         Decisions, operations notes, and references
 - Parallel agents: [`workflows/parallel-agents.md`](workflows/parallel-agents.md)
 - Validation gate: [`checklists/validation.md`](checklists/validation.md)
 - Agent instructions: [`AGENTS.md`](AGENTS.md)
+- Workstation setup: [`docs/ops/agentic-workstation.md`](docs/ops/agentic-workstation.md)
+- Agent-facing tool standard: [`docs/ops/agent-facing-tools.md`](docs/ops/agent-facing-tools.md)
 - Video link analysis: [`docs/references/l8-principal-video-links.md`](docs/references/l8-principal-video-links.md)
 
 ## Principles

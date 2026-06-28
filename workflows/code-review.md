@@ -20,3 +20,8 @@
 ## Agent-assisted review prompt
 
 Use [`prompts/review.md`](../prompts/review.md) to ask an agent for a structured first-pass review, then apply human judgment.
+
+## Related
+
+- Security checklist: [`checklists/security.md`](../checklists/security.md)
+- Validation checklist: [`checklists/validation.md`](../checklists/validation.md)

@@ -41,3 +41,8 @@ Create the smallest reproduction possible:
 ## 6. Handoff
 
 Document root cause, fix, validation, and remaining risk.
+
+## Related
+
+- Debug prompt: [`prompts/debug.md`](../prompts/debug.md)
+- Validation checklist: [`checklists/validation.md`](../checklists/validation.md)
