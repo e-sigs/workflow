@@ -22,6 +22,7 @@ checklists/   Definition-of-done and quality gates
 templates/    Reusable docs, specs, PRs, ADRs, postmortems
 prompts/      Agent prompts for common engineering tasks
 scripts/      Local workflow helpers
+dotfiles/     Portable workstation configuration managed by this workflow
 docs/         Decisions, operations notes, and references
 .github/      Issue and PR templates
 ```
